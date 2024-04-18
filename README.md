@@ -46,10 +46,8 @@
 
 <div align="left" style="margin-top:20px;">
 
-* 📖 **Master's Degree** in **Data Science** @ [University of Milano-Bicocca](https://www.unimib.it/graduate/data-science).
-* 📖 **Bachelor's Degree** in **Chemical Sciences and Technologies** @ [University of Milano-Bicocca](https://en.unimib.it/undergraduate/chemical-sciences-technologies).
-* 📍 I'm from Italy, living near Milan. 
-* 💡 Open to collaborating on projects and innovative ideas. 
+* 📖 **Master's Degree** in **Data Science** @ [Università degli Studi di Milano-Bicocca](https://www.unimib.it/graduate/data-science).
+* 📖 **Bachelor's Degree** in **Computer Science** @ [Università degli Studi di Bari](https://en.unimib.it/undergraduate/chemical-sciences-technologies).
 
 </div>
                  
