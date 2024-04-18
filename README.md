@@ -1,4 +1,4 @@
-### Hello! <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif" width="280px" height="280px" />
+### <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif" width="350px" height="280px" />
 
 <!--
 
