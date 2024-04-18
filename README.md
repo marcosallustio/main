@@ -5,7 +5,7 @@
 <p align="left">
   <img align=top width="220" src="./Images/developer1.gif" />  
   <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=false&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" style="margin-top:0;" /> 
- <img align=bottom src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=0e75b6" alt="giocoalview" style="margin-top:0;" />
+ <img align=bottom src="[https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=0e75b6](https://komarev.com/ghpvc/?username=marcosallustio&label=Visitors&style=flat&color=0e75b6)" alt="giocoalview" style="margin-top:0;" />
 </p>
 
 <div align="left">
@@ -47,7 +47,7 @@
 <div align="left" style="margin-top:20px;">
 
 * 📖 **Master's Degree** in **Data Science** @ [Università degli Studi di Milano-Bicocca](https://www.unimib.it/graduate/data-science).
-* 📖 **Bachelor's Degree** in **Computer Science** @ [Università degli Studi di Bari](https://en.unimib.it/undergraduate/chemical-sciences-technologies).
+* 📖 **Bachelor's Degree** in **Computer Science** @ [Università degli Studi di Bari](https://www.uniba.it/it/corsi/informatica/corso-di-laurea-in-informatica).
 
 </div>
                  
