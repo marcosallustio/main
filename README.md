@@ -74,9 +74,9 @@
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 <!-- ##### 🖥️ Libraries -->
 <!-- ![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) -->
@@ -92,6 +92,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=fflat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
@@ -104,25 +105,16 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=flat&logo=rstudio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white)
 <!-- ##### ⚙️ Tools -->
 <!-- ![](https://img.shields.io/badge/Tools-KNIME-informational?style=flat&color=2bbc8a) --> 
 <!-- ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a) -->
 ⚙️ **Tools**  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Knime](https://img.shields.io/badge/KNIME-informational?style=flat&color=FFFF00)
 <!-- ##### 🕓 Version Control -->
-🕓 **Version Control**  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-<!-- ##### 💾 Databases -->
-<!-- ![](https://img.shields.io/badge/DB-mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a) -->
-<!-- ![](https://img.shields.io/badge/DB-Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=2bbc8a) -->
-<!-- ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a) -->
 💾 **Databases**  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-<!-- ##### 🌐 Web Developement -->
-<!-- ![](https://img.shields.io/badge/Static_Site_Generator-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=2bbc8a) -->
-🌐 **Web Developement**  ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white)
+
 
 </details>
 
