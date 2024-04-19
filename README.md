@@ -1,9 +1,15 @@
-### <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif" width="350px" height="280px" />
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabin&size=30&duration=4995&pause=980&color=101010&center=true&vCenter=true&random=false&width=435&lines=Marco+Sallustio)](https://git.io/typing-svg)
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif" width="350px" height="280px" />
+  <div>
+    <a href="https://git.io/typing-svg" target="_blank">
+      <img src="https://readme-typing-svg.demolab.com?font=Cabin&size=30&duration=4995&pause=980&color=101010&center=true&vCenter=true&random=false&width=435&lines=Marco+Sallustio" alt="Typing Animation">
+    </a>
+  </div>
+</div>
 
 
-<br clear="center"/>
+
+<br clear="left"/>
 
 ---
 
