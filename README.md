@@ -1,6 +1,6 @@
 ### <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif" width="350px" height="280px" />
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabin&weight=500&size=30&duration=4995&pause=980&color=101010&center=true&multiline=true&random=false&width=435&lines=Marco+Sallustio;MSc+Data+Science+%7C+BSc+Computer+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabin&weight=500&size=30&duration=4995&pause=980&color=101010&center=true&vCenter=true&random=false&width=435&lines=Marco+Sallustio;MSc+Data+Science+%7C+BSc+Computer+Science)](https://git.io/typing-svg)
 
 
 
