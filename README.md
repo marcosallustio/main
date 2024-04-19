@@ -37,18 +37,8 @@
 
 * 📖 **Master's Degree** in **Data Science** @ [Università degli Studi di Milano-Bicocca](https://www.unimib.it/graduate/data-science).
 * 📖 **Bachelor's Degree** in **Computer Science** @ [Università degli Studi di Bari](https://www.uniba.it/it/corsi/informatica/corso-di-laurea-in-informatica).
-
 </div>
-                 
-
-<h4 align="center">My Portfolio Website and My Resume</h4>
-<div align="center">
-<a href="https://giocoal.github.io/minimal-portfolio/" target="blank"><img align="center" src="./Images/primaversione1Rounded.png" alt="giorgiocarbonePortfolio" height="30" width="30" /></a>
-<a href="https://giocoal.github.io/minimal-portfolio/pdf/Carbone_Giorgio_CV_eng.pdf" target="blank"><img align="center" src="https://img.icons8.com/office/512/parse-from-clipboard.png" alt="giorgiocarboneCV" height="30" width="30" /></a>
-</div>
-
-<!-- altra icona portfolio: https://4vector.com/i/free-vector-internet-icon_101765_Internet_Icon.png -->
-<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+    
 <h4 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="28px"></h4>
 <div align="center">
 <a href="https://www.linkedin.com/in/giorgio-carbone-63154219b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgiocarbone" height="20" width="20,7" /></a> 
