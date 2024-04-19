@@ -49,11 +49,6 @@
 
 <br/> 
 
-<details open> 
-<summary><b>:octocat:	&nbsp;&nbsp;Github Stats</b></summary>
-
-<br/> 
-
 </details> 
 
 </br>
