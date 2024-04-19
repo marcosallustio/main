@@ -115,65 +115,6 @@
 
 </br>
 
-<details> 
-<summary><b>📈&nbsp;&nbsp;Activity Stats</b></summary>
-
-<br/> 
-
-<div align="center">
-<a align=top href="https://github.com/giocoal">
-    <img align=top src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giocoal&theme=github_dark" height="192px">
-</a>
-<br>
-<a align=top href="https://github.com/giocoal">
-    <img align=top alt="giocoal's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giocoal&theme=github_dark" height="192px"/></a>  
-<a align=top href="https://github.com/giocoal">
-    <img align=top alt="giocoal's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giocoal&theme=github_dark" height="192px"/></a>
-</br>
-<b>Currently Coding & Listening to:</b>
-                                
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=giocoal&cover_image=false&theme=default&show_offline=false&background_color=22272e&bar_color=37bbf5&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=giocoal&redirect=true)
-</div>                             
-
-</details>                                
-
-<!---
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
---->
-
-</details>
-  
-<details open> 
-<summary><b>✍️&nbsp;&nbsp;Medium articles</b></summary> 
-  
-![Giorgio's blog](https://github-read-medium.vercel.app/latest?username=giorgiocarbone&limit=6&theme=graywhite)
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (portfolio icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-</details>  
-
-</br>
-<div align="center">
-<img align=top src="./Images/tumblr_11d365a49f6f66dee03353309bf82414_8f4b05ff_540.gif" height="192px">
-</br>
-<i><q>That’s what the world is, after all: an endless battle of contrasting memories.</q></i>
-</div> 
   
 <!-- Resources --> 
 <!-- Icons: https://simpleicons.org/ -->
