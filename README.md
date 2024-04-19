@@ -2,9 +2,8 @@
 
 <!--
 
-<p align="center">
-  <img align=top width="220" src="./Images/developer1.gif" />  
-  <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=false&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" style="margin-top:0;" /> 
+<p align="left">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=101010&random=false&width=435&lines=Marco+Sallustio)](https://git.io/typing-svg)
 </p>
 
 --> 
