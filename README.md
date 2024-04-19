@@ -55,11 +55,11 @@
 <br/> 
 
 <div align="center">
-<a align=top href="https://github.com/giocoal">
-    <img align=top src="![marcosallustio's Stats](https://github-readme-stats.vercel.app/api?username=marcosallustio&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)" height="192px">
+<a align=top href="https://github.com/marcosallustio">
+    <img align=top src="![marcosallustio's Stats](https://github-readme-stats.vercel.app/api?username=marcosallustio&theme=blue-green&show_icons=true&hide_border=true&count_private=false)" height="192px">
 </a>
-<a align=top href="https://github.com/giocoal">
-    <img align=top alt="giocoal's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=giocoal&langs_count=8&theme=react&hide_border=true&bg_color=22272e&title_color=37BCF6&icon_color=fff&bc=0000&hide=java,scss,javascript,tex,ruby,shell,Jupyter%20Notebook" height="192px"/></a>                                                                                                           
+<a align=top href="https://github.com/marcosallustio">
+    <img align=top alt="giocoal's Top Languages" src="![marcosallustio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosallustio&theme=blue-green&show_icons=true&hide_border=true&layout=compact)" height="192px"/></a>                                                                                                           
 </div>
 
 </details> 
