@@ -8,7 +8,7 @@
 
 --> 
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=101010&random=false&width=435&lines=Marco+Sallustio)](https://git.io/typing-svg)
   
 
 <br clear="left"/>
