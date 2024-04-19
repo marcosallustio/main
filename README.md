@@ -41,14 +41,10 @@
     
 <h4 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="28px"></h4>
 <div align="center">
-<a href="https://www.linkedin.com/in/giorgio-carbone-63154219b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgiocarbone" height="20" width="20,7" /></a> 
-<a href="mailto:carbone.giorgio4@gmail.com" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="giorgiocarbone" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=XwyRP1wAAAAJ&hl=en&oi=sra" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="giorgiocarbone" height="30" width="40" /></a>
-<a href="https://github.com/giocoal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="giorgiocarbone" height="30" width="40" /></a>
-<a href="https://medium.com/@giorgiocarbone" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@giorgiocarbone" height="30" width="30" /></a>
-<a href="https://www.kaggle.com/giorgiocarbone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="giorgiocarbone" height="20" width="26,7" /></a>
-<a href="https://public.tableau.com/app/profile/giorgio.carbone3907" target="blank"><img align="center" src="https://img.icons8.com/color/512/tableau-software.png" alt="giorgiocarbone" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/12193930/giorgio-carbone" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="giorgiocarbone" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/marco-sallustio-b9383b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgiocarbone" height="20" width="20,7" /></a> 
+<a href="mailto:m.sallustio@campus.unimib.it" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="giorgiocarbone" height="30" width="40" /></a>
+<a href="https://github.com/marcosallustio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="marcosallustio" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="marcosallustio" height="20" width="26,7" /></a>
 </div>
 
 <h4 align="center">Languages &nbsp<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="28px"></h4>
