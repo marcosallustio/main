@@ -2,8 +2,6 @@
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabin&size=30&duration=4995&pause=980&color=101010&center=true&vCenter=true&random=false&width=435&lines=Marco+Sallustio)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabin&size=30&duration=4995&pause=980&color=101010&center=true&vCenter=true&random=false&width=435&lines=Marco+Sallustio)](https://git.io/typing-svg)
-
 
 <br clear="left"/>
 
